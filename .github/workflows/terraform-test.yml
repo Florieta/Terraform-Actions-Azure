@@ -83,4 +83,4 @@ jobs:
 
     # Validate Terraform files
     - name: Terraform Validate
-    - run: terraform validate
+      run: terraform validate
